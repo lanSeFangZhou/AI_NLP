@@ -7,6 +7,7 @@ NLP算法详解，整理所有NLP相关的算法及算法实现；
 ## 1.WORDCUT 分词
 
 ## 2.CLASSIFY 文本分类
+https://github.com/649453932/Chinese-Text-Classification-Pytorch.git
 
 ## 3.NER 命名实体识别
 
